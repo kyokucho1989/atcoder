@@ -24,5 +24,3 @@ if (b*c%2 == 1 )
 else
     print("Even\n")
 end
-
-
